@@ -1,0 +1,179 @@
+#EXTM3U
+#EXTINF:-1, group-title="地方频道", 四川卫视
+http://124.47.33.200/PLTV/88888888/224/3221225600/index.m3u8
+#EXTINF:-1, group-title="地方频道", 香港耀才财经
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1, group-title="其他频道", TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1, group-title="其他频道", TV8
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
+#EXTINF:-1, group-title="其他频道", DDTV
+http://203.156.63.20:1935/live/ddtv/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", KeyTV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1, group-title="其他频道", RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:-1, group-title="其他频道", FolxTV
+http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
+#EXTINF:-1, group-title="其他频道", WHOHTV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", 加拿大华人唐
+http://174.127.67.246/live330/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", 韩国EBS1
+http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", 韩国EBS2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", ABCJazz
+http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
+#EXTINF:-1, group-title="其他频道", MetroTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", MiamiTV
+http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
+#EXTINF:-1, group-title="其他频道", TVMarti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1, group-title="其他频道", US-CBSN
+http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+#EXTINF:-1, group-title="其他频道", 2GBSydney
+http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
+#EXTINF:-1, group-title="其他频道", Elbekanal
+http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
+#EXTINF:-1, group-title="其他频道", GarlandTV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+#EXTINF:-1, group-title="其他频道", LancelotTV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1, group-title="其他频道", BeachTV-30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", BloombergTV
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1, group-title="其他频道", ~WorldNews~
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
+#EXTINF:-1, group-title="其他频道", 3AWMelbourne
+http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
+#EXTINF:-1, group-title="其他频道", NewOrleansTV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", LaMegaMundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", CometTV(Opt-1)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+#EXTINF:-1, group-title="其他频道", 泰国SUVARNABHUMI
+http://203.146.129.233:1935/live/mp4:suwan/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", WHPRTV33Detroit
+http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", 2SMSydney[Opt-1]
+http://144.140.228.109:8220/mp3/master.m3u8
+#EXTINF:-1, group-title="其他频道", 2UESydney[Opt-1]
+http://shout01.stream.hostworks.com.au/2ue_mp3/master.m3u8
+#EXTINF:-1, group-title="其他频道", 2UESydney[Opt-2]
+http://shout01.stream.hostworks.com.au:/2ue_mp3/master.m3u8
+#EXTINF:-1, group-title="其他频道", TVDiariodoSertao
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", BloombergTVEurope
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1, group-title="其他频道", News12(NewJersey)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL
+#EXTINF:-1, group-title="其他频道", BeachTV-PanamaCity
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1, group-title="其他频道", ClassicArtsShowcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1, group-title="其他频道", RealMadridTV(Opt-1)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1, group-title="其他频道", SoutheasternChannel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1, group-title="其他频道", News12(HudsonValley)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12HV
+#EXTINF:-1, group-title="其他频道", BeachTV-PawleysIsland
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", News12(Connecticut-Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_CT
+#EXTINF:-1, group-title="其他频道", News12(NewYorkCity-Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NYC
+#EXTINF:-1, group-title="其他频道", CA-English–TheWeatherNetwork
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1, group-title="广播频道", FlashFM
+http://162.244.80.68:8000/stream
+#EXTINF:-1, group-title="广播频道", 4CRB89.3FM
+http://stream.4crb.com:8000/stream/1/
+#EXTINF:-1, group-title="广播频道", RaagamRadio
+http://airraagam-lh.akamaihd.net/i/airraagam_1@507820/master.m3u8
+#EXTINF:-1, group-title="广播频道", ABCRadioSydney
+http://live-radio02.mediahubaustralia.com/2LRW/aac/master.m3u8
+#EXTINF:-1, group-title="广播频道", AudioNoirRadio
+http://198.245.61.123:8000/noir
+#EXTINF:-1, group-title="广播频道", TripleR102.7FM
+http://public-radio1.internode.on.net:8002/114
+#EXTINF:-1, group-title="广播频道", ABCRadioCanberra
+http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/master.m3u8
+#EXTINF:-1, group-title="广播频道", ABCRadioNational
+http://live-radio01.mediahubaustralia.com/2RNW/aac/master.m3u8
+#EXTINF:-1, group-title="广播频道", BBCRadio1[Opt-1]
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
+#EXTINF:-1, group-title="广播频道", BBCRadio2[Opt-1]
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+#EXTINF:-1, group-title="广播频道", BBCRadio3[Opt-1]
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
+#EXTINF:-1, group-title="广播频道", BBCRadio4[Opt-1]
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+#EXTINF:-1, group-title="广播频道", DirectLife92.1FM
+http://198.178.123.23:7368/;stream
+#EXTINF:-1, group-title="广播频道", BBCRadio5Live[Opt-1]
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
+#EXTINF:-1, group-title="广播频道", Oxigeno100.4FMBogota
+http://i50.letio.com/9114.aac
+#EXTINF:-1, group-title="广播频道", Oxigeno90.7FMArmenia
+http://i50.letio.com/9162.aac
+#EXTINF:-1, group-title="广播频道", RadioTeleBoston(USA)
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+#EXTINF:-1, group-title="广播频道", BBCRadio6Music[Opt-1]
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
+#EXTINF:-1, group-title="广播频道", OlimpicaStereo104.5FMCali
+http://i50.letio.com/9120.aac
+#EXTINF:-1, group-title="广播频道", Oxigeno90.1FMBarranquilla
+http://i50.letio.com/9102.aac
+#EXTINF:-1, group-title="广播频道", RadioCoyhaique95.3FM[AAC]
+http://stream5.eltelon.com/radio-coyhaique.aac
+#EXTINF:-1, group-title="广播频道", RadioLaVozDeYungay102.7FM
+http://stream5.eltelon.com/archi-yungay.aac?type=.flv
+#EXTINF:-1, group-title="广播频道", OlimpicaStereo100.3FMNeiva
+http://i50.letio.com/9136.aac
+#EXTINF:-1, group-title="广播频道", OlimpicaStereo94.3FMIbague
+http://i50.letio.com/9130.aac
+#EXTINF:-1, group-title="广播频道", OlimpicaStereo94.7FMCucuta
+http://i50.letio.com/9134.aac
+#EXTINF:-1, group-title="广播频道", OlimpicaStereo105.9FMBogota
+http://i60.letio.com/9114.aac?type=.flv?type=.flv
+#EXTINF:-1, group-title="广播频道", RadioBI88.7FMAguascalientes
+http://201.159.48.107:2860/
+#EXTINF:-1, group-title="广播频道", OlimpicaStereo102.7FMPereira
+http://i50.letio.com/9124.aac
+#EXTINF:-1, group-title="广播频道", OlimpicaStereo90.5FMMonteria
+http://i50.letio.com/9112.aac
+#EXTINF:-1, group-title="广播频道", RadioFutura100.7FMTalca[AAC]
+http://stream5.eltelon.com/futura.aac
+#EXTINF:-1, group-title="广播频道", OlimpicaStereo104.9FMMedellin
+http://i50.letio.com/9128.aac
+#EXTINF:-1, group-title="广播频道", OlimpicaStereo90.5FMCartagena
+http://i50.letio.com/9108.aac
+#EXTINF:-1, group-title="广播频道", RadioNativaFM106.5Lumaco[AAC]
+http://stream5.eltelon.com/nativa.aac
+#EXTINF:-1, group-title="广播频道", RadioTiempo96.1FMBarranquilla
+http://i50.letio.com/9100.aac?type=.flv?type=.flv
+#EXTINF:-1, group-title="广播频道", OlimpicaStereo101.5FMSincelejo
+http://i50.letio.com/9116.aac
+#EXTINF:-1, group-title="广播频道", OlimpicaStereo93.7FMValledupar
+http://i50.letio.com/9118.aac
+#EXTINF:-1, group-title="广播频道", OlimpicaStereo97.1FMSantaMarta
+http://i50.letio.com/9110.aac
+#EXTINF:-1, group-title="广播频道", OlimpicaStereo97.7FMBucaramanga
+http://i50.letio.com/9122.aac
+#EXTINF:-1, group-title="广播频道", RadioDinamica100.7FMSantiago[AAC]
+http://stream5.eltelon.com/dinamica.aac
+#EXTINF:-1, group-title="广播频道", OlimpicaStereo105.3FMVillavicencio
+http://i50.letio.com/9132.aac
+#EXTINF:-1, group-title="广播频道", RadioCentro103.3FMAntofagasta[AAC]
+http://stream5.eltelon.com/centro.aac
+#EXTINF:-1, group-title="广播频道", RadioCandelaria106.9FMTierraAmarilla[AAC]
+http://stream5.eltelon.com/candelaria.aac
